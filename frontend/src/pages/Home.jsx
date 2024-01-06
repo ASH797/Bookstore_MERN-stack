@@ -29,7 +29,7 @@ const Home = () => {
         </div>
             {
                 loading?(<Spinner/>):(
-                    <table className='w-full border-seperate border-spacing-2'>
+                    <table className='w-full border-seperate border-spacing-3'>
                             <thead>
                                 <th className='border border-slate-600 rounded-md'>No.</th>
                                 <th className='border border-slate-600 rounded-md'>Title</th>
