@@ -15,10 +15,10 @@ This project serves as a comprehensive learning experience for full-stack web de
 
 ## Technologies Used
 
-- **Backend:** [Specify your preferred backend framework/language, e.g., Node.js with Express]
-- **Frontend:** [Specify your preferred frontend framework/library, e.g., React or Vue]
+- **Backend:**  Node.js with Express
+- **Frontend:**  React JS
 - **Database:** MongoDB
-- **Additional Tools:** [List any additional tools or libraries you decide to incorporate]
+- **Additional Tools:** VITE, Tailwind CSS etc
 
 ## Getting Started
 
